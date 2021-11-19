@@ -1,0 +1,245 @@
+2021-11-19 18:55:50,702 INFO TestCase 2 
+2021-11-19 18:55:50,702 INFO Browser has been invoked 
+2021-11-19 18:55:58,550 INFO Landed on Website home page 
+2021-11-19 18:55:58,834 INFO Entered coffee mugs iin search bar 
+2021-11-19 18:56:01,301 INFO clicked on enter 
+2021-11-19 18:56:04,614 INFO Clicked on the coffee mug item 
+2021-11-19 18:56:04,803 INFO Added Coffee mug to the cart 
+2021-11-19 18:56:09,054 DEBUG Couldn't find template in cache for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed); will try to load it. 
+2021-11-19 18:56:09,054 DEBUG TemplateLoader.findTemplateSource("spark/spark.spa_en_IN.ftl"): Not found 
+2021-11-19 18:56:09,072 DEBUG TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found 
+2021-11-19 18:56:09,073 DEBUG TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found 
+2021-11-19 18:56:09,074 DEBUG Loading template for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/NITIN/.m2/repository/com/aventstack/extentreports/5.0.1/extentreports-5.0.1.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl" 
+2021-11-19 18:56:09,141 DEBUG Couldn't find template in cache for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed); will try to load it. 
+2021-11-19 18:56:09,141 DEBUG TemplateLoader.findTemplateSource("commons/commons-variables_en_IN.ftl"): Not found 
+2021-11-19 18:56:09,142 DEBUG TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found 
+2021-11-19 18:56:09,143 DEBUG TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found 
+2021-11-19 18:56:09,143 DEBUG Loading template for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/NITIN/.m2/repository/com/aventstack/extentreports/5.0.1/extentreports-5.0.1.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl" 
+2021-11-19 18:56:09,249 DEBUG Couldn't find template in cache for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed); will try to load it. 
+2021-11-19 18:56:09,250 DEBUG TemplateLoader.findTemplateSource("commons/commons-macros_en_IN.ftl"): Not found 
+2021-11-19 18:56:09,250 DEBUG TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found 
+2021-11-19 18:56:09,250 DEBUG TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found 
+2021-11-19 18:56:09,250 DEBUG Loading template for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/NITIN/.m2/repository/com/aventstack/extentreports/5.0.1/extentreports-5.0.1.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl" 
+2021-11-19 18:56:09,254 DEBUG Couldn't find template in cache for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed); will try to load it. 
+2021-11-19 18:56:09,255 DEBUG TemplateLoader.findTemplateSource("spark/macros/attributes_en_IN.ftl"): Not found 
+2021-11-19 18:56:09,255 DEBUG TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found 
+2021-11-19 18:56:09,255 DEBUG TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found 
+2021-11-19 18:56:09,255 DEBUG Loading template for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/NITIN/.m2/repository/com/aventstack/extentreports/5.0.1/extentreports-5.0.1.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl" 
+2021-11-19 18:56:09,257 DEBUG Couldn't find template in cache for "spark/macros/log.ftl"("en_IN", UTF-8, parsed); will try to load it. 
+2021-11-19 18:56:09,257 DEBUG TemplateLoader.findTemplateSource("spark/macros/log_en_IN.ftl"): Not found 
+2021-11-19 18:56:09,258 DEBUG TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found 
+2021-11-19 18:56:09,258 DEBUG TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found 
+2021-11-19 18:56:09,258 DEBUG Loading template for "spark/macros/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/NITIN/.m2/repository/com/aventstack/extentreports/5.0.1/extentreports-5.0.1.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl" 
+2021-11-19 18:56:09,260 DEBUG Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed); will try to load it. 
+2021-11-19 18:56:09,260 DEBUG TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_IN.ftl"): Not found 
+2021-11-19 18:56:09,261 DEBUG TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found 
+2021-11-19 18:56:09,262 DEBUG TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found 
+2021-11-19 18:56:09,262 DEBUG Loading template for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/NITIN/.m2/repository/com/aventstack/extentreports/5.0.1/extentreports-5.0.1.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl" 
+2021-11-19 18:56:09,265 DEBUG "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached. 
+2021-11-19 18:56:09,265 DEBUG Couldn't find template in cache for "spark/partials/head.ftl"("en_IN", UTF-8, parsed); will try to load it. 
+2021-11-19 18:56:09,266 DEBUG TemplateLoader.findTemplateSource("spark/partials/head_en_IN.ftl"): Not found 
+2021-11-19 18:56:09,266 DEBUG TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found 
+2021-11-19 18:56:09,266 DEBUG TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found 
+2021-11-19 18:56:09,266 DEBUG Loading template for "spark/partials/head.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/NITIN/.m2/repository/com/aventstack/extentreports/5.0.1/extentreports-5.0.1.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl" 
+2021-11-19 18:56:09,270 DEBUG Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed); will try to load it. 
+2021-11-19 18:56:09,270 DEBUG TemplateLoader.findTemplateSource("commons/commons-inject-css_en_IN.ftl"): Not found 
+2021-11-19 18:56:09,271 DEBUG TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found 
+2021-11-19 18:56:09,271 DEBUG TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found 
+2021-11-19 18:56:09,271 DEBUG Loading template for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/NITIN/.m2/repository/com/aventstack/extentreports/5.0.1/extentreports-5.0.1.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl" 
+2021-11-19 18:56:09,272 DEBUG Couldn't find template in cache for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed); will try to load it. 
+2021-11-19 18:56:09,272 DEBUG TemplateLoader.findTemplateSource("spark/partials/navbar_en_IN.ftl"): Not found 
+2021-11-19 18:56:09,273 DEBUG TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found 
+2021-11-19 18:56:09,273 DEBUG TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found 
+2021-11-19 18:56:09,273 DEBUG Loading template for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/NITIN/.m2/repository/com/aventstack/extentreports/5.0.1/extentreports-5.0.1.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl" 
+2021-11-19 18:56:09,281 DEBUG Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed); will try to load it. 
+2021-11-19 18:56:09,282 DEBUG TemplateLoader.findTemplateSource("spark/partials/sidenav_en_IN.ftl"): Not found 
+2021-11-19 18:56:09,282 DEBUG TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found 
+2021-11-19 18:56:09,283 DEBUG TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found 
+2021-11-19 18:56:09,283 DEBUG Loading template for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/NITIN/.m2/repository/com/aventstack/extentreports/5.0.1/extentreports-5.0.1.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl" 
+2021-11-19 18:56:09,297 DEBUG Couldn't find template in cache for "spark/partials/test.ftl"("en_IN", UTF-8, parsed); will try to load it. 
+2021-11-19 18:56:09,298 DEBUG TemplateLoader.findTemplateSource("spark/partials/test_en_IN.ftl"): Not found 
+2021-11-19 18:56:09,298 DEBUG TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found 
+2021-11-19 18:56:09,299 DEBUG TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found 
+2021-11-19 18:56:09,299 DEBUG Loading template for "spark/partials/test.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/NITIN/.m2/repository/com/aventstack/extentreports/5.0.1/extentreports-5.0.1.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl" 
+2021-11-19 18:56:09,319 DEBUG Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed); will try to load it. 
+2021-11-19 18:56:09,320 DEBUG TemplateLoader.findTemplateSource("spark/partials/standard-content_en_IN.ftl"): Not found 
+2021-11-19 18:56:09,320 DEBUG TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found 
+2021-11-19 18:56:09,321 DEBUG TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found 
+2021-11-19 18:56:09,321 DEBUG Loading template for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/NITIN/.m2/repository/com/aventstack/extentreports/5.0.1/extentreports-5.0.1.jar!/com/aventstack/extentreports/templates/spark/partials/standard-content.ftl" 
+2021-11-19 18:56:09,327 DEBUG Couldn't find template in cache for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed); will try to load it. 
+2021-11-19 18:56:09,328 DEBUG TemplateLoader.findTemplateSource("spark/partials/exception_en_IN.ftl"): Not found 
+2021-11-19 18:56:09,328 DEBUG TemplateLoader.findTemplateSource("spark/partials/exception_en.ftl"): Not found 
+2021-11-19 18:56:09,329 DEBUG TemplateLoader.findTemplateSource("spark/partials/exception.ftl"): Found 
+2021-11-19 18:56:09,329 DEBUG Loading template for "spark/partials/exception.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/NITIN/.m2/repository/com/aventstack/extentreports/5.0.1/extentreports-5.0.1.jar!/com/aventstack/extentreports/templates/spark/partials/exception.ftl" 
+2021-11-19 18:56:09,332 DEBUG Couldn't find template in cache for "spark/partials/category.ftl"("en_IN", UTF-8, parsed); will try to load it. 
+2021-11-19 18:56:09,333 DEBUG TemplateLoader.findTemplateSource("spark/partials/category_en_IN.ftl"): Not found 
+2021-11-19 18:56:09,333 DEBUG TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found 
+2021-11-19 18:56:09,333 DEBUG TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found 
+2021-11-19 18:56:09,334 DEBUG Loading template for "spark/partials/category.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/NITIN/.m2/repository/com/aventstack/extentreports/5.0.1/extentreports-5.0.1.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl" 
+2021-11-19 18:56:09,339 DEBUG Couldn't find template in cache for "spark/partials/device.ftl"("en_IN", UTF-8, parsed); will try to load it. 
+2021-11-19 18:56:09,339 DEBUG TemplateLoader.findTemplateSource("spark/partials/device_en_IN.ftl"): Not found 
+2021-11-19 18:56:09,340 DEBUG TemplateLoader.findTemplateSource("spark/partials/device_en.ftl"): Not found 
+2021-11-19 18:56:09,340 DEBUG TemplateLoader.findTemplateSource("spark/partials/device.ftl"): Found 
+2021-11-19 18:56:09,340 DEBUG Loading template for "spark/partials/device.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/NITIN/.m2/repository/com/aventstack/extentreports/5.0.1/extentreports-5.0.1.jar!/com/aventstack/extentreports/templates/spark/partials/device.ftl" 
+2021-11-19 18:56:09,346 DEBUG Couldn't find template in cache for "spark/partials/author.ftl"("en_IN", UTF-8, parsed); will try to load it. 
+2021-11-19 18:56:09,346 DEBUG TemplateLoader.findTemplateSource("spark/partials/author_en_IN.ftl"): Not found 
+2021-11-19 18:56:09,346 DEBUG TemplateLoader.findTemplateSource("spark/partials/author_en.ftl"): Not found 
+2021-11-19 18:56:09,347 DEBUG TemplateLoader.findTemplateSource("spark/partials/author.ftl"): Found 
+2021-11-19 18:56:09,347 DEBUG Loading template for "spark/partials/author.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/NITIN/.m2/repository/com/aventstack/extentreports/5.0.1/extentreports-5.0.1.jar!/com/aventstack/extentreports/templates/spark/partials/author.ftl" 
+2021-11-19 18:56:09,352 DEBUG Couldn't find template in cache for "spark/partials/log.ftl"("en_IN", UTF-8, parsed); will try to load it. 
+2021-11-19 18:56:09,352 DEBUG TemplateLoader.findTemplateSource("spark/partials/log_en_IN.ftl"): Not found 
+2021-11-19 18:56:09,353 DEBUG TemplateLoader.findTemplateSource("spark/partials/log_en.ftl"): Not found 
+2021-11-19 18:56:09,353 DEBUG TemplateLoader.findTemplateSource("spark/partials/log.ftl"): Found 
+2021-11-19 18:56:09,353 DEBUG Loading template for "spark/partials/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/NITIN/.m2/repository/com/aventstack/extentreports/5.0.1/extentreports-5.0.1.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl" 
+2021-11-19 18:56:09,354 DEBUG Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed); will try to load it. 
+2021-11-19 18:56:09,355 DEBUG TemplateLoader.findTemplateSource("spark/partials/dashboard_en_IN.ftl"): Not found 
+2021-11-19 18:56:09,355 DEBUG TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found 
+2021-11-19 18:56:09,356 DEBUG TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found 
+2021-11-19 18:56:09,356 DEBUG Loading template for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/NITIN/.m2/repository/com/aventstack/extentreports/5.0.1/extentreports-5.0.1.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl" 
+2021-11-19 18:56:09,384 DEBUG Couldn't find template in cache for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed); will try to load it. 
+2021-11-19 18:56:09,385 DEBUG TemplateLoader.findTemplateSource("spark/partials/scripts_en_IN.ftl"): Not found 
+2021-11-19 18:56:09,386 DEBUG TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found 
+2021-11-19 18:56:09,386 DEBUG TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found 
+2021-11-19 18:56:09,386 DEBUG Loading template for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/NITIN/.m2/repository/com/aventstack/extentreports/5.0.1/extentreports-5.0.1.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl" 
+2021-11-19 18:56:09,387 DEBUG Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed); will try to load it. 
+2021-11-19 18:56:09,388 DEBUG TemplateLoader.findTemplateSource("commons/commons-inject-js_en_IN.ftl"): Not found 
+2021-11-19 18:56:09,393 DEBUG TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found 
+2021-11-19 18:56:09,394 DEBUG TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found 
+2021-11-19 18:56:09,394 DEBUG Loading template for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/NITIN/.m2/repository/com/aventstack/extentreports/5.0.1/extentreports-5.0.1.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl" 
+2021-11-19 18:57:13,223 INFO TestCase 2 
+2021-11-19 18:57:13,345 INFO Browser has been invoked 
+2021-11-19 18:57:21,114 INFO Landed on Website home page 
+2021-11-19 18:57:21,545 INFO Entered coffee mugs iin search bar 
+2021-11-19 18:57:23,944 INFO clicked on enter 
+2021-11-19 18:57:27,312 INFO Clicked on the coffee mug item 
+2021-11-19 18:57:27,610 INFO Added Coffee mug to the cart 
+2021-11-19 20:28:33,772 INFO TestCase 2 
+2021-11-19 20:28:33,814 INFO Browser has been invoked 
+2021-11-19 20:28:40,011 INFO Landed on Website home page 
+2021-11-19 20:28:40,320 INFO Entered coffee mugs iin search bar 
+2021-11-19 20:28:42,884 INFO clicked on enter 
+2021-11-19 20:28:46,245 INFO Clicked on the coffee mug item 
+2021-11-19 20:28:46,460 INFO Added Coffee mug to the cart 
+2021-11-19 20:29:14,069 INFO TestCase 2 
+2021-11-19 20:29:14,070 INFO Browser has been invoked 
+2021-11-19 20:29:19,751 INFO Landed on Website home page 
+2021-11-19 20:29:19,902 INFO Entered coffee mugs iin search bar 
+2021-11-19 20:29:22,204 INFO clicked on enter 
+2021-11-19 20:29:25,472 INFO Clicked on the coffee mug item 
+2021-11-19 20:29:25,673 INFO Added Coffee mug to the cart 
+2021-11-19 20:29:31,496 INFO TestCase 3 
+2021-11-19 20:29:31,497 INFO Browser has been invoked 
+2021-11-19 20:29:36,717 INFO landed on HomePage 
+2021-11-19 20:29:36,755 INFO howered on gifts and clicked on Birthday Gifts 
+2021-11-19 20:29:45,439 INFO TestCase 4 
+2021-11-19 20:29:45,439 INFO browser has been invoked 
+2021-11-19 20:29:53,685 INFO Landed on Webstie Homepage 
+2021-11-19 20:29:57,146 INFO clicked on Christmas gifts 
+2021-11-19 20:29:59,510 INFO Selected the required item 
+2021-11-19 20:29:59,743 INFO Added the Item to the cart 
+2021-11-19 20:30:04,817 INFO Added a gift note to it 
+2021-11-19 20:30:10,667 INFO Test Case 5 
+2021-11-19 20:30:10,668 INFO Browser has been invoked 
+2021-11-19 20:30:16,483 INFO Landed on Website homepage 
+2021-11-19 20:30:19,356 INFO clicked on Top 50 Category 
+2021-11-19 20:30:21,536 INFO Selected the Item 
+2021-11-19 20:30:21,760 INFO Entered the pincode 
+2021-11-19 20:30:21,915 INFO Clicked on check 
+2021-11-19 20:30:27,486 INFO TestCase 7 
+2021-11-19 20:30:27,486 INFO Browser has been invoked 
+2021-11-19 20:30:33,946 INFO landed on Website Homepage 
+2021-11-19 20:30:36,666 INFO New Category 
+2021-11-19 20:30:39,763 INFO Clicked on the item 
+2021-11-19 20:30:39,908 INFO increased the quantity to 2 
+2021-11-19 20:30:45,345 INFO Test case 8 
+2021-11-19 20:30:45,345 INFO browser has been invoked 
+2021-11-19 20:30:51,155 INFO landed on wesite homepage 
+2021-11-19 20:30:53,131 INFO clicked on gift card 
+2021-11-19 20:30:53,343 INFO selected the amount 
+2021-11-19 20:30:53,422 INFO added the gift card to the cart 
+2021-11-19 20:30:58,824 INFO test case 9 
+2021-11-19 20:30:58,824 INFO Browser invoking done 
+2021-11-19 20:31:05,985 INFO landed on Website Homepage 
+2021-11-19 20:31:08,510 INFO landed on All of It page 
+2021-11-19 20:31:11,924 INFO Selected the item 
+2021-11-19 20:31:12,406 INFO added to wish list 
+2021-11-19 20:31:18,022 INFO Test case 10 
+2021-11-19 20:31:18,022 INFO browser has been invoked 
+2021-11-19 20:31:24,007 INFO landed on website HomePage 
+2021-11-19 20:31:26,128 INFO Clicked on the Shipping & deliver Policy link 
+2021-11-19 20:31:26,285 INFO Got the heading 
+2021-11-19 20:31:26,286 INFO Heading checking done 
+2021-11-19 20:31:34,103 INFO Browser has been invoked 
+2021-11-19 20:31:40,361 INFO Landed on website Homepage 
+2021-11-19 20:31:43,015 INFO Clicked on Corporate Gift 
+2021-11-19 20:31:43,282 INFO Entered the name 
+2021-11-19 20:31:43,429 INFO Entered the Email 
+2021-11-19 20:31:43,689 INFO Entered the number 
+2021-11-19 20:31:43,894 INFO Entered the enquiry text 
+2021-11-19 21:42:01,013 INFO test case 9 
+2021-11-19 21:42:01,183 INFO Browser invoking done 
+2021-11-19 21:42:08,898 INFO landed on Website Homepage 
+2021-11-19 21:42:11,644 INFO landed on All of It page 
+2021-11-19 21:42:15,889 INFO Selected the item 
+2021-11-19 21:42:16,357 INFO added to wish list 
+2021-11-20 00:56:33,929 INFO TestCase 2 
+2021-11-20 00:56:33,929 INFO Browser has been invoked 
+2021-11-20 00:56:40,109 INFO Landed on Website home page 
+2021-11-20 00:56:40,426 INFO Entered coffee mugs iin search bar 
+2021-11-20 00:56:42,649 INFO clicked on enter 
+2021-11-20 00:56:45,642 INFO Clicked on the coffee mug item 
+2021-11-20 00:56:45,812 INFO Added Coffee mug to the cart 
+2021-11-20 00:56:51,955 INFO TestCase 3 
+2021-11-20 00:56:51,956 INFO Browser has been invoked 
+2021-11-20 00:56:57,772 INFO landed on HomePage 
+2021-11-20 00:56:57,773 INFO howered on gifts and clicked on Birthday Gifts 
+2021-11-20 00:57:05,396 INFO TestCase 4 
+2021-11-20 00:57:05,396 INFO browser has been invoked 
+2021-11-20 00:57:11,605 INFO Landed on Webstie Homepage 
+2021-11-20 00:57:14,311 INFO clicked on Christmas gifts 
+2021-11-20 00:57:16,940 INFO Selected the required item 
+2021-11-20 00:57:17,144 INFO Added the Item to the cart 
+2021-11-20 00:57:22,238 INFO Added a gift note to it 
+2021-11-20 00:57:23,518 INFO Test Case 5 
+2021-11-20 00:57:23,518 INFO Browser has been invoked 
+2021-11-20 00:57:30,886 INFO Landed on Website homepage 
+2021-11-20 00:57:34,661 INFO clicked on Top 50 Category 
+2021-11-20 00:57:36,925 INFO Selected the Item 
+2021-11-20 00:57:37,105 INFO Entered the pincode 
+2021-11-20 00:57:37,172 INFO Clicked on check 
+2021-11-20 00:57:42,190 INFO TesCase 6 
+2021-11-20 00:57:42,238 INFO Browser has been invoked 
+2021-11-20 00:57:47,950 INFO Landed on Website Homepage 
+2021-11-20 00:57:48,367 INFO Hovered on Birthday gifts 
+2021-11-20 00:57:51,192 INFO Hovered on 18th birthday gifts and clicked on it 
+2021-11-20 00:57:56,285 INFO TestCase 7 
+2021-11-20 00:57:56,285 INFO Browser has been invoked 
+2021-11-20 00:58:03,825 INFO landed on Website Homepage 
+2021-11-20 00:58:07,082 INFO New Category 
+2021-11-20 00:58:10,245 INFO Clicked on the item 
+2021-11-20 00:58:10,420 INFO increased the quantity to 2 
+2021-11-20 00:58:15,455 INFO Test case 8 
+2021-11-20 00:58:15,468 INFO browser has been invoked 
+2021-11-20 00:58:21,540 INFO landed on wesite homepage 
+2021-11-20 00:58:24,396 INFO clicked on gift card 
+2021-11-20 00:58:24,613 INFO selected the amount 
+2021-11-20 00:58:24,725 INFO added the gift card to the cart 
+2021-11-20 00:58:25,683 INFO test case 9 
+2021-11-20 00:58:25,683 INFO Browser invoking done 
+2021-11-20 00:58:33,861 INFO landed on Website Homepage 
+2021-11-20 00:58:35,856 INFO landed on All of It page 
+2021-11-20 00:58:39,653 INFO Selected the item 
+2021-11-20 00:58:40,295 INFO added to wish list 
+2021-11-20 00:58:47,332 INFO Test case 10 
+2021-11-20 00:58:47,332 INFO browser has been invoked 
+2021-11-20 00:58:54,147 INFO landed on website HomePage 
+2021-11-20 00:58:56,343 INFO Clicked on the Shipping & deliver Policy link 
+2021-11-20 00:58:56,476 INFO Got the heading 
+2021-11-20 00:58:56,478 INFO Heading checking done 
+2021-11-20 00:58:58,415 INFO Browser has been invoked 
+2021-11-20 00:59:04,251 INFO Landed on website Homepage 
+2021-11-20 00:59:06,304 INFO Clicked on Corporate Gift 
+2021-11-20 00:59:06,623 INFO Entered the name 
+2021-11-20 00:59:06,712 INFO Entered the Email 
+2021-11-20 00:59:06,774 INFO Entered the number 
+2021-11-20 00:59:06,922 INFO Entered the enquiry text 

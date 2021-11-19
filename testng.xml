@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+<listeners>
+	<listener class-name = "utilities.reporting"/>
+	<listener class-name = "utilities.listners"/>
+</listeners>
+
+  <test thread-count="5" name="Test">
+  <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="testCases.TC2_coffeeMug"/>
+      <class name="testCases.TC3_Gifts"/>
+      <class name ="testCases.TC4_GiftNote"/> 
+      <class name ="testCases.TC5_pincode"/>
+      <class name ="testCases.TC6_18BdayGift"/>
+      <class name ="testCases.TC7_Quantity"/>
+      <class name ="testCases.TC8_AddGiftCard"/>
+      <class name ="testCases.TC9_wishList"/>
+      <class name ="testCases.TC10_shippingPolicy" />
+      <class name ="testCases.TC11_corporateGifts" />
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

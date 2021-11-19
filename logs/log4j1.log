@@ -1,0 +1,5 @@
+DEBUG 2021-11-17 21:37:09,496 testCases.log4j main debug 
+INFO 2021-11-17 21:37:09,500 testCases.log4j main info 
+ERROR 2021-11-17 21:37:09,500 testCases.log4j main error 
+FATAL 2021-11-17 21:37:09,500 testCases.log4j main fatal 
+INFO 2021-11-17 21:39:28,697 testCases.sample main information from sample 
